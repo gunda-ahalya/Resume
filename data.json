@@ -1,0 +1,24 @@
+{
+   "basics":{
+     "name":"ahalya",
+     "email":"gundaahalya@gmail.com",
+     "mobile":"+91-9876543210"
+   },
+   "education":[{
+     "degree":"b.tech",
+     "institute":"pscmr",
+     "data":["2019-2015"]
+     },
+     {
+     "degree":"inter",
+     "institute":"vj jr college",
+     "data":["2015-2013"]
+     },
+     {
+       "degree":"ssc",
+     "institute":"aravinda model achool",
+     "data":["2013-2012"]
+
+     }
+   ]
+}
