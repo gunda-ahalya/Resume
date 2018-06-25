@@ -2,7 +2,10 @@
    "basics":{
      "name":"ahalya",
      "email":"gundaahalya@gmail.com",
-     "mobile":"+91-9876543210"
+     "mobile":"+91-8897232514"
+   },
+   "career":{
+     "Info":"to pursue a challenging career and be a part of progressive organization that given scope to enhance my knowledge and utilising my skill towards the growth of organization"
    },
    "education":[{
      "degree":"b.tech",
@@ -20,5 +23,34 @@
      "data":["2013-2012"]
 
      }
+   ],
+   "acheivements":[
+     {
+       "name":"Awarded as <b> 1 <sup>st</sup> prize </b> in <q>self-defence</q>"
+
+     },
+     {
+      "name":"Got <strong>1<sup>st</sup> prize </strong> for <q> PPT presentation </q>"
+
+     }
+
+   ],
+   "skills":[
+     {
+       "name":"programming languages",
+       "data":["C","Java","Python","C++"]
+     },
+    {
+         "name":"data bases",
+         "data":["mysql","oracle"]
+       },
+       {
+            "name":"Web Technologies",
+            "data":["HTML","CSS","JavaScript"]
+          },
+          {
+               "name":"Libraries and frameworks",
+               "data":["jQuery","codeIgniter"]
+             }
    ]
 }
